@@ -3,7 +3,7 @@
   "@type": "SportsActivityLocation",
   "name": "Fitness Exclusive – San Isidro, Makati",
   "description": "Multi-sport courts and fitness gym at 2254 Marconi St., San Isidro, Makati City.",
-  "url": "https://fitnessexclusive.ph/san-isidro-makati.html",
+  "url": "https://fitnessexclusive.ph//san-isidro-makati",
   "telephone": "+639171440100",
   "email": "sales@fitnessexclusive.ph",
   "address": {

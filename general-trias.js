@@ -3,7 +3,7 @@
   "@type": "SportsActivityLocation",
   "name": "Fitness Exclusive – General Trias, Cavite",
   "description": "Multi-sport courts and fitness gym in General Trias, Cavite.",
-  "url": "https://fitnessexclusive.ph/general-trias-cavite.html",
+  "url": "https://fitnessexclusive.ph//general-trias-cavite",
   "telephone": "+639171440100",
   "email": "sales@fitnessexclusive.ph",
   "address": {

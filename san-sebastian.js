@@ -3,7 +3,7 @@
   "@type": "SportsActivityLocation",
   "name": "Fitness Exclusive – San Sebastian College, Manila",
   "description": "Multi-sport courts and fitness gym inside San Sebastian College – Recoletos, Recto Ave., Quiapo, Manila.",
-  "url": "https://fitnessexclusive.ph/san-sebastian-recoletos.html",
+  "url": "https://fitnessexclusive.ph//san-sebastian-recoletos",
   "telephone": "+639171440100",
   "email": "sales@fitnessexclusive.ph",
   "address": {

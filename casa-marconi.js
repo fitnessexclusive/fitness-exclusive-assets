@@ -3,7 +3,7 @@
   "@type": "SportsActivityLocation",
   "name": "Fitness Exclusive – Casa Marconi, Makati",
   "description": "Rooftop basketball court at 2305 Marconi St., corner Morse St., Makati City.",
-  "url": "https://fitnessexclusive.ph/casa-marconi.html",
+  "url": "https://fitnessexclusive.ph//casa-marconi",
   "telephone": "+639171440100",
   "email": "sales@fitnessexclusive.ph",
   "address": {

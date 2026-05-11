@@ -3,7 +3,7 @@
   "@type": "SportsActivityLocation",
   "name": "Fitness Exclusive – Baesa, Quezon City",
   "description": "Multi-sport courts and fitness gym in Baesa, Quezon City. Book basketball, volleyball, and pickleball courts online.",
-  "url": "https://fitnessexclusive.ph/baesa-quezon-city.html",
+  "url": "https://fitnessexclusive.ph//baesa-quezon-city",
   "telephone": "+639171440100",
   "email": "sales@fitnessexclusive.ph",
   "address": {
