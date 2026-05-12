@@ -58,7 +58,7 @@
         pickleballB: 'c_0c8e9ef5a3bd7920e6d7295c06e3e863a1f58a86b0ff533a7487ab623c9927c2@group.calendar.google.com',
         pickleballC: 'c_341b63197e7566718300161253b31a0b9fe85dfda5cb265eff15cbf5623f3e58@group.calendar.google.com'
       };
-      var API='AIzaSyCxRy0Tt54do_8loT5HscwQgKRvAacsWXA';
+      var API='AIzaSyCTqw21nvJj6pirlbp7APXDG7EY07FKD1U';
       var BRANCH='General Trias, Cavite',EMAIL='sales@fitnessexclusive.ph';
       var step=1,events=[],promoOn=false,discRate=0;
       var courtTotal=0,addonTotal=0,playerTotal=0,finalTotal=0,selHour=null,selDur=null;

@@ -58,7 +58,7 @@
         pickleballB: 'c_2f680778f0023e214b0b071db65c5b6139deef7ecb73e4276911f149d48bfd77@group.calendar.google.com',
         pickleballC: 'c_249a3ef1562f241580e9c60ac76c4c50c996f74529b8c119259b1897b1da675f@group.calendar.google.com'
       };
-      var API='AIzaSyCxRy0Tt54do_8loT5HscwQgKRvAacsWXA';
+      var API='AIzaSyCTqw21nvJj6pirlbp7APXDG7EY07FKD1U';
       var BRANCH='San Sebastian – Recoletos',EMAIL='sales@fitnessexclusive.ph';
       var step=1,events=[],promoOn=false,discRate=0;
       var courtTotal=0,addonTotal=0,playerTotal=0,finalTotal=0,selHour=null,selDur=null;

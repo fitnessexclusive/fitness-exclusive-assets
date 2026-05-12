@@ -58,7 +58,7 @@
         pickleballB: 'c_6b62cf28bc2b494249f274049325c10438bd31d766ebc685563693f5e27e0b6c@group.calendar.google.com',
         pickleballC: 'c_ba4a6a71e0279d9885ae5e82ff12c3ab844ccbe22849ae6867271b4f12e5124b@group.calendar.google.com'
       };
-      var API='AIzaSyCxRy0Tt54do_8loT5HscwQgKRvAacsWXA';
+      var API='AIzaSyCTqw21nvJj6pirlbp7APXDG7EY07FKD1U';
       var BRANCH='San Isidro, Makati',EMAIL='sales@fitnessexclusive.ph';
       var step=1,events=[],promoOn=false,discRate=0;
       var courtTotal=0,addonTotal=0,playerTotal=0,finalTotal=0,selHour=null,selDur=null;

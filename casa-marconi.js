@@ -105,7 +105,7 @@ const BPM_RATES = {
 
 const CM_SCRIPT_URL = 'PLACEHOLDER_CM_SCRIPT_URL';
 const CM_CAL_ID     = 'PLACEHOLDER_CM_BASKETBALL_CAL_ID';
-const CM_API_KEY    = 'AIzaSyCxRy0Tt54do_8loT5HscwQgKRvAacsWXA';
+const CM_API_KEY    = 'AIzaSyCTqw21nvJj6pirlbp7APXDG7EY07FKD1U';
 const CM_EMAIL      = 'sales@fitnessexclusive.ph';
 
 const bpmState = {
