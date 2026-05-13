@@ -103,8 +103,8 @@ const BPM_RATES = {
   peak:    { without: 1500, with: 1800 }
 };
 
-const CM_SCRIPT_URL = 'PLACEHOLDER_CM_SCRIPT_URL';
-const CM_CAL_ID     = 'PLACEHOLDER_CM_BASKETBALL_CAL_ID';
+const CM_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzQXDIBNYXVtQjie3qVP7V2SEVzB59sdXb7dBS_xqIv7o4TnBLLna9YuP7Ied6ndSXI8A/exec';
+const CM_CAL_ID     = 'c_1bf493e39cd9916fd7b388dc220af1a70bfbf0c945e2cbf5444fa996d4999039@group.calendar.google.com';
 const CM_API_KEY    = 'AIzaSyCTqw21nvJj6pirlbp7APXDG7EY07FKD1U';
 const CM_EMAIL      = 'sales@fitnessexclusive.ph';
 
